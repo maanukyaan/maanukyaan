@@ -1,8 +1,10 @@
-# Привет! Я Ваге, Frontend-разработчик
+# Привет! Я Ваге, Frontend-разработчик | Hi! I'm Vahe, Frontend Developer
 
 Уже **4** года разрабатываю веб-приложения (и не только). За это время успел получить и опробовать многое в выстраивании процессов frontend-команд, старте новых и рефакторинге легаси продуктов. Обожаю создавать производительные, масштабируемые и легко поддерживаемые приложения на **React/Next.js**. Уровень знания **JavaScript** на высоком уровне, включая все новые фичи, плюс отлично ориентируюсь в **HTML5/CSS3**. Опыт работы с большим количеством инструментов около этого стека – от **Node.js** и **Express** до **Electron** и **React Native**. Обожаю всю экосистему **JS/TS**, постоянно улучшаю свои знания и изучаю новые вещи. Пишу музыку ещё :)
 
-## 🛠 Технологии, с которыми я работаю:
+I have been developing web applications (and not only) for **4** years already. During this time, I have managed to gain and try out a lot in building frontend team processes, starting new products and refactoring legacy products. I love creating productive, scalable and easily supported applications on **React/Next.js**. My level of **JavaScript** knowledge is at a high level, including all the new features, plus I am well versed in **HTML5/CSS3**. Experience working with a large number of tools around this stack - from **Node.js** and **Express** to **Electron** and **React Native**. I love the entire **JS/TS** ecosystem, I am constantly improving my knowledge and learning new things. I also write music :)
+
+## 🛠 Технологии, с которыми я работаю (Technologies I work with):
 
 ### 🌐 Frontend:
 
@@ -46,8 +48,16 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#### ✉️ **Мой Telegram**: [@whoiskenshi](https://whoiskenshi.t.me)
-#### ✉️ **Мой Email**: [maanukyaan@gmail.com](mailto:maanukyaan@gmail.com)
+## 📞 Связаться со мной (Get in touch):
+
+#### ✉️ **Telegram**: [@whoiskenshi](https://whoiskenshi.t.me)
+#### ✉️ **Email**: [maanukyaan@gmail.com](mailto:maanukyaan@gmail.com)
+
+## 🌅 Атмосфера (Some vibes):
+
+Тут у меня немного красивых гифок с закатами в стиле vaporwave, чтобы создать правильное настроение :)
+
+Here are some vaporwave gifs with sunsets to set the right mood :)
 
 ![Coder](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
 
