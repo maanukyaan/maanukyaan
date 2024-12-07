@@ -48,6 +48,20 @@ I have been developing web applications (and not only) for **4** years already. 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## Пет-проекты (Pet projects)
+
+### 🪄 Nimbus
+[Ссылка | Link](https://github.com/maanukyaan/nimbus)
+
+![Nimbus](https://raw.githubusercontent.com/maanukyaan/nimbus/refs/heads/main/public/icons/logo-long.svg)
+
+Облачное решение для хранения файлов
+
+Frontend: Next.js, TailwindCSS, shadcn/ui | Backend: Appwrite
+
+#### ⚠️ **Находится в разработке** 🚧
+
+
 ## 📞 Связаться со мной (Get in touch):
 
 #### ✉️ **Telegram**: [@whoiskenshi](https://whoiskenshi.t.me)
