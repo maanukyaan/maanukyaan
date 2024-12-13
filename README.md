@@ -59,8 +59,6 @@ I have been developing web applications (and not only) for **4** years already. 
 
 Frontend: Next.js, TailwindCSS, shadcn/ui | Backend: Appwrite
 
-#### ⚠️ **Находится в разработке** 🚧
-
 
 ## 📞 Связаться со мной (Get in touch):
 
